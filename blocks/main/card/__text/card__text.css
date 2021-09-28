@@ -1,0 +1,11 @@
+@import url(./_theme/card__text_theme_dark.css);
+
+.card__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.card__text:nth-of-type(n + 2) {
+  padding-top: 20px;
+}

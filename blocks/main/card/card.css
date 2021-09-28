@@ -1,0 +1,7 @@
+@import url(./__heading/card__heading.css);
+@import url(./__text/card__text.css);
+@import url(./_theme/card_theme_dark.css);
+
+.card {
+  width: 250px;
+}
