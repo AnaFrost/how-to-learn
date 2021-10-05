@@ -1,16 +1,11 @@
 @import url(./__triangle/kaufman__triangle.css);
 
-body {
-  scroll-behavior: smooth;
-}
-
 .kaufman {
   overflow: hidden;
   position: relative;
   display: flex;
   align-items: center;
   flex-direction: column;
-  box-sizing: border-box;
   padding: 90px 0;
   background-color: #1f1f1f;
 }
