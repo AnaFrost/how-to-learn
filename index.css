@@ -25,6 +25,7 @@
 @import url(./blocks/main/khan/khan.css);
 @import url(./blocks/main/feynman/feynman.css);
 @import url(./blocks/main/kaufman/kaufman.css);
+@import url(./blocks/main/resources/resources.css);
 @import url(./blocks/footer/footer.css);
 
 html {
