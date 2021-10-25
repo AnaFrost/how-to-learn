@@ -18,6 +18,8 @@
 @import url(./blocks/main/card/_theme/card_theme_dark.css);
 @import url(./blocks/main/card/__text/_theme/card__text_theme_dark.css);
 @import url(./blocks/main/card/__heading/_theme/card__heading_theme_dark.css);
+@import url(./blocks/main/techniques/techniques.css);
+@import url(./blocks/main/cards/cards.css);
 @import url(./blocks/main/feynman/feynman.css);
 @import url(./blocks/main/kaufman/kaufman.css);
 @import url(./blocks/footer/footer.css);
