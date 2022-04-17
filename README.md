@@ -9,5 +9,5 @@
 - CSS,
 
 ### Как открыть проект:
-- Выполнить команду git clone https://github.com/AnaFrost/how-to-learn.git или скачать репозиторий архивомю
+- Выполнить команду git clone https://github.com/AnaFrost/how-to-learn.git или скачать репозиторий архивом.
 - Открыть index.html в папке с проектом.
